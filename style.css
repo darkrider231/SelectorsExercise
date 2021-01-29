@@ -44,7 +44,7 @@ div p {
 }
 
 /* #11 */
-input.focus {
+input[type="email"] {
     background: #808080;
 }
 
@@ -62,6 +62,7 @@ div  p:nth-child(2){
 div em {
     font-size: 25px;
 }
+
 
 /* BONUS */
 /* #1 */
